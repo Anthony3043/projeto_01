@@ -2,7 +2,7 @@ import customtkinter
 from tkinter import ttk
 import sqlite3
 
-#modifiqueii
+#modifiqueiik
 
 # def abrir cadastro
 def abrir_cadastro():
